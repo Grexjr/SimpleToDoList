@@ -4,7 +4,7 @@ import interact.InputManager;
 import util.exceptions.InvalidArgs;
 import util.exceptions.TaskNotInList;
 import util.exceptions.UnknownCommand;
-import interact.out.Printer;
+import interact.output.Printer;
 import list.Task;
 import list.ToDoList;
 
